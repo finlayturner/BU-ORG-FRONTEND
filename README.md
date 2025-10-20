@@ -2,16 +2,20 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-First, run the development server:
+First, make sure you have Node.js installed (this will install npm):
+
+https://nodejs.org/en/download
+
+Then in this project directory, enter terminal command:
+
+```bash
+npm install
+```
+
+Once the packages are installed, you can run a local development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
